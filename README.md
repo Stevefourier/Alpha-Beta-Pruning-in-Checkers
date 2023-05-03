@@ -9,7 +9,7 @@ This is an official link to the [Checkers game](https://www.officialgamerules.or
 ## Steps: How to play the Checkers Game
 This game is run by executing the `game.py` module using the command `python game.py`.
 
-![alt text](http://picsum.photos/200/200)
+![alt text](https://ibb.co/93c7hWY/200/200)
 
 ## Implementation Design
 | Python Module | header | head |
