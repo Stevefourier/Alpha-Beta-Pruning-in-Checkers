@@ -2,7 +2,7 @@
 from copy import deepcopy
 from math import inf
 
-# This class 
+# This class defines and state and behaviour of the pieces in the checkers board
 class Position(object):
 
     def __init__(self, table, white_to_move=True):
