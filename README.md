@@ -9,11 +9,4 @@ This is an official link to the [Checkers game](https://www.officialgamerules.or
 ## How to play the Checkers Game
 This game is run by executing the `game.py` module using `python game.py`.
 
-```python
-list = []
-value = "This is a boy"
-for item in value:
-    list.append()
-print(list)
-
-```
+![alt text](C:\Users\Stephen\Pictures\Picture1.png)
