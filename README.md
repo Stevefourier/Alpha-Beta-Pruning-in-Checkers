@@ -11,6 +11,8 @@ This game is run by executing the `game.py` module using the command `python gam
 
 ![alt text](http://picsum.photos/200/200)
 
-| heading | header | head |
-| --- | --- | --- |
-| content | more content | another content |
+Implementation Design
+| Python Modules | Description | head |
+| `gane.py` | --- | --- |
+| `input.py` | more content | another content |
+| `position.py` | more content | another content |
