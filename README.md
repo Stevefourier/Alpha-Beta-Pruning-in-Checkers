@@ -2,7 +2,7 @@
 ## Alpha Beta Pruning in Checkers Game
 
 ## About Checkers Game
-This is an official link to the [Checkers game](https://www.officialgamerules.org/checkers) game to be able to undertand fundamentally how the game is played.
+This is an official link to the [Checkers game](https://www.officialgamerules.org/checkers) to help interested individuals understand fundamentally the rules of the game.
 
 
 
@@ -16,3 +16,5 @@ This game is run by executing the `game.py` module using the command `python gam
 | --- | --- | --- |
 | `input.py` | more content | another content |
 | `position.py` | more content | another content |
+| `game.py` | more content | another content |
+| `output.py` | more content | another content |
