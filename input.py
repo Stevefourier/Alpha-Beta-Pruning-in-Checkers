@@ -1,3 +1,5 @@
+
+#Function to receive selection of piece to be moved by the Human Player and checks if piece is has legitimate moves or not
 def input_choose_piece(position, available_pieces=None):
     while True:
         if available_pieces:
@@ -42,6 +44,8 @@ def input_choose_piece(position, available_pieces=None):
             print("Invalid coordinate entered! Please try again.")
 
 
+
+#Function to check if moves entered by the Human Player is valid
 def input_choose_field(valid_moves):
     while True:
         coord = input(
@@ -57,7 +61,7 @@ def input_choose_field(valid_moves):
         except:
             print("Invalid coordinate! Try again.")
 
-
+#Function to enable forced captures
 def input_forced_moves():
     while True:
         forced = input(
