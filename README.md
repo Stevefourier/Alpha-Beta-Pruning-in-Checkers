@@ -11,7 +11,9 @@ When the command is run, the interface below is displayed
 ![Screenshot](Pictures/Picture1.png)
 
 - Step 2: Human player selects a piece `x` at random to be moved by entering the coordinates
-> (as an example, (xy)=(52)) where x is 5 and y is 2 
+> Example, `(xy)=(52)` where `x ` is 5 and `y` is 2 
+
+
 ![Screenshot](Pictures/gameplay.jpg)
 
 
