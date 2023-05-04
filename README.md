@@ -10,11 +10,13 @@ This is an official link to the [Checkers game](https://www.officialgamerules.or
 When the command is run, the interface below is displayed
 ![Screenshot](Pictures/Picture1.png)
 
-- Step 2: Human player selects a piece `x` at random to be moved by entering the coordinates
+- Step 2: Human player selects a piece `x` at random to be moved by entering the coordinates `x ` and `y `.
 > Example, `(xy)=(52)` where `x ` is 5 and `y` is 2 
 
 
 ![Screenshot](Pictures/gameplay.jpg)
+- Step 3: AI predicts valid moves for the chosen piece and displays corresponding legitimate moves/position and ask Human Player to choose the location suggested. Human player chooses one of the locations and turn is transfered to the AI Agent.
+![Screenshot](Pictures/gameplay2.jpg)
 
 
 
