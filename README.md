@@ -31,7 +31,7 @@ When the command is run, the interface below is displayed
 
 ![Screenshot](Pictures/gameplay3.jpg)
 
-** This ** * is * 
+**This** *is* 
 
 
 
