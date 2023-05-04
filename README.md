@@ -6,11 +6,12 @@ This is an official link to the [Checkers game](https://www.officialgamerules.or
 
 
 ## Steps: How to play the Checkers Game
-- ** Step 1 **: This game is run by executing the `game.py` module using the command `python game.py`.
+- Step 1: This game is run by executing the `game.py` module using the command `python game.py`.
 When the command is run, the interface below is displayed
-- ** Step 2 **: 
+![Screenshot](Picture1.png/200/200)
+- Step 2: 
 
-![Screenshot](Picture1.png)
+
 
 
 
