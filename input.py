@@ -45,7 +45,7 @@ def input_choose_piece(position, available_pieces=None):
 def input_choose_field(valid_moves):
     while True:
         coord = input(
-            "Enter the coordinates of the piece you want to move(For example, 52 without space: ")
+            "Enter the coordinates of the piece predicted (For example, 52 without space: ")
         try:
             if coord.lower() == "x":
                 return None
