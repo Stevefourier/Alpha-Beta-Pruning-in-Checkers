@@ -9,6 +9,7 @@ This is an official link to the [Checkers game](https://www.officialgamerules.or
 This game is run by executing the `game.py` module using the command `python game.py`.
 
 ![alt text](http://picsum.photos/200/200)
+![Screenshot](Picture1.png)
 
 ## Implementation Design
 |  Python Module  | Description |
