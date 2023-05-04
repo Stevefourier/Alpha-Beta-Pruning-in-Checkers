@@ -8,9 +8,9 @@ This is an official link to the [Checkers game](https://www.officialgamerules.or
 ## Implementation Design
 |  Python Module  | Description |
 | --- | --- | 
-| `input.py` | Contains helper functions that take input from human player on choice of piece to move. | 
+| `input.py` | Contains helper functions that take input from human player on choice of piece to move | 
 | `position.py` | Contains the position class which captures the state of the Human player & AI Agent pieces on the checker’s board | 
-| `game.py` | This module will be the main class that will manage the game | 
+| `game.py` | This module contains the *main* function that will manage the game | 
 | `output.py` | Responsible for printing the state of the board after each turn of the respective players |
 
 
@@ -30,10 +30,4 @@ When the command is run, the interface below is displayed
 - **Step 4**: AI agent plays its own move using the alpha-beta pruning algorithm and computes the time taken to make the decision of possible move of its chosen piece. Following this, the Human Player takes turn in the game.
 
 ![Screenshot](Pictures/gameplay3.jpg)
- 
-
-
-
-
-
 
