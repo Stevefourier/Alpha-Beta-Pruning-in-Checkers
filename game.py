@@ -55,7 +55,7 @@ def alpha_beta(position, depth, alpha, beta, max_player, forced_caputure):
         position.set_evaluation(min_evaluation)
         return min_evaluation
 
-        #updated to get increasingly higher values, that come from val. Then, we check if val >= beta. When we are not the maximising player, 
+        
 
 
 # Alpha beta pruning minmax that calls a different function. It can be changed to take the function as a parameter
@@ -169,7 +169,7 @@ def main():
         print_table(position.get_table(), piece, valid_moves)
         new_position = input_choose_field(valid_moves)
         if not new_position:
-            print("Taknuto maknuto! Doviđenja!")
+            print("Piece Removed!")
             break
         previous_table = deepcopy(position.get_table())
         position = position.play_move(piece, new_position)

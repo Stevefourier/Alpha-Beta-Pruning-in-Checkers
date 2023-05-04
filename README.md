@@ -10,7 +10,10 @@ This is an official link to the [Checkers game](https://www.officialgamerules.or
 When the command is run, the interface below is displayed
 ![Screenshot](Pictures/Picture1.png)
 
-- Step 2: 
+- Step 2: Human player selects a piece `x` at random to be moved by entering the coordinates
+> (as an example, (xy)=(52)) where x is 5 and y is 2 
+![Screenshot](Pictures/gameplay.jpg)
+
 
 
 
@@ -22,4 +25,4 @@ When the command is run, the interface below is displayed
 | `input.py` | Contains helper functions that take input from human player on choice of piece to move. | 
 | `position.py` | Contains the position class which captures the state of the Human player & AI Agent pieces on the checker’s board | 
 | `game.py` | This module will be the main class that will manage the game | 
-| `output.py` | Responsible to printing the state of the board after each turn of the respective players |
+| `output.py` | Responsible for printing the state of the board after each turn of the respective players |
