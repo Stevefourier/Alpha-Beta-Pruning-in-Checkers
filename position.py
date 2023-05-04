@@ -28,7 +28,7 @@ class Position(object):
     def __eq__(self, other):
         return self._evaluation == other.get_evaluation()
 
-    def get_game_end(self): #This function intializes the object 
+    def get_game_end(self): 
         return self._game_end
 
     def set_white_to_move(self, value):
@@ -40,7 +40,7 @@ class Position(object):
     def set_evaluation(self, new_eval):
         self._evaluation = new_eval
 
-    def get_next_moves(self, forced=False): # This fun
+    def get_next_moves(self, forced=False): # This function gets the next move for any piece chosen
         if self._next_moves is None:
             self.generate_next_moves(forced)
         return self._next_moves
