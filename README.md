@@ -27,6 +27,10 @@ When the command is run, the interface below is displayed
 - Step 3: AI predicts valid moves for the chosen piece and displays corresponding legitimate moves/position and ask Human Player to choose the location suggested. Human player chooses one of the locations and turn is transfered to the AI Agent.
 ![Screenshot](Pictures/gameplay2.jpg)
 
+- Step 4: AI agent plays its own move using the alpha-beta pruning algorithm and computes the time taken to make the decision. The turn is passed to the Human Player again.
+
+![Screenshot](Pictures/gameplay3.jpg)
+
 
 
 
